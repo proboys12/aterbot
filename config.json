@@ -1,7 +1,7 @@
 {
-	"host": "Philipou12.aternos.me",
-	"port": "25565",
-	"username": "Philipou Aternos 24/7 Bot",
+	"host": "needasmp.aternos.me",
+	"port": "30793",
+	"username": "Needpro",
 	"logger": [ true
 		, "true : displays not necessary logs. (ex: key input logs)",
 		"false : displays only necessary logs."
