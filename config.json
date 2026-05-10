@@ -12,4 +12,5 @@
 		"holdDuration": 5000,
 		"retryDelay": 15000
 	}
-}
+} if (msg.includes('/register')) {
+    bot.chat('/register password ')
